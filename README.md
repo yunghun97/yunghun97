@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yunghun97♟&fontSize=90)
 
-사용기술
-https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js
+사용기술<br>
+
+<img src="https://img.shields.io/badge/vue.js-#4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
