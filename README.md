@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 사용기술<br>
 
-<img src="https://img.shields.io/badge/vue.js-#4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
