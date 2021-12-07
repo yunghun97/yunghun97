@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yunghun97♟&fontSize=90)
-
+<br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={yunghun97})](https://solved.ac/{yunghun97})
 사용기술
 <br>
 
