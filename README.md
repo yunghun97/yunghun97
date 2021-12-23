@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yunghun97♟&fontSize=90)
 <br>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yunghun97)](https://solved.ac/yunghun97)
-<!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunghun97)](https://solved.ac/yunghun97) -->
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yunghun97)](https://solved.ac/yunghun97) -->
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunghun97)](https://solved.ac/yunghun97)
 <br>
 
 ---
